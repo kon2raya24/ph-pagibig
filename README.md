@@ -19,3 +19,11 @@ npm install ph-pagibig
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'ph-pagibig';
+// See API section for available functions
+```
